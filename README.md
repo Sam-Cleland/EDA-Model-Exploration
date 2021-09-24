@@ -12,6 +12,6 @@ causes issues in some models and makes ugly labels for plots, the integer values
 data set contains 10 numeric predictor variables and two categorical predictors. There is a numeric outcome
 variable DEATH RATE, a categorical test-train split variable OBS TYPE, and the unique country identifier CODE.
 
-The dataset is provided in this repository. This data was provided for an assignment I can not vouch for its orgion or reliablity.
+The dataset is provided in this repository. This data was provided for an assignment I can not vouch for its origion or reliablity.
 
 The shiny application is deployed on shinyapps.io and can be found here,  https://sam-cleland.shinyapps.io/.
