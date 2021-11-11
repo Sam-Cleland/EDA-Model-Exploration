@@ -14,4 +14,4 @@ variable DEATH RATE, a categorical test-train split variable OBS TYPE, and the u
 
 The dataset is provided in this repository. This data was provided for an assignment I can not vouch for its origion or reliablity.
 
-The shiny application is deployed on shinyapps.io and can be found here,  https://sam-cleland.shinyapps.io/.
+The shiny application is deployed on shinyapps.io and can be found here,  http://sam-cleland.shinyapps.io/EDA_Model_Exploration
